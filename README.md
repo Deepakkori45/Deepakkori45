@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Deepak Kori 👋</h1>
-<h3 align="center">I am currently pursuing my M.Tech in Artificial Intelligence from 
-IITPatna. With a strong foundation in machine learning and data science, I am passionate about leveraging technology to solve real-world problems. Apart from my academic pursuits, I actively contribute to open-source projects, including fine-tuning and deploying machine learning models on platforms like Hugging Face.</h3>
+<h3 align="center">I am currently pursuing my M.Tech in Artificial Intelligence from IITPatna. With a strong foundation in machine learning and data science, I am passionate about leveraging technology to solve real-world problems. Apart from my academic pursuits, I actively contribute to open-source projects, including fine-tuning and deploying machine learning models on platforms like Hugging Face.</h3>
 
 - My Project on Large Language Models [Question Answering System using Mistral](https://github.com/Deepakkori45/QuestionAnsweringUsingMistral)
 
