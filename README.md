@@ -4,7 +4,7 @@ IITPatna. With a strong foundation in machine learning and data science, I am pa
 
 - My Project on Large Language Models [Question Answering System using Mistral](https://github.com/Deepakkori45/QuestionAnsweringUsingMistral)
 
-- Time Series Forecasting Projects [LSTM,ARIMA,SARIMA and VAR](https://github.com/Deepakkori45/Time_Series_Forecasting)
+- Time Series Forecasting Projects [LSTM, ARIMA, SARIMA and VAR](https://github.com/Deepakkori45/Time_Series_Forecasting)
 
 - Project Related to ML [KMean, KMedoid, DBScan, Linear Regression,](https://github.com/Deepakkori45/Machine-Learning-)
 
