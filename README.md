@@ -3,8 +3,8 @@
 
 - My Project on Large Language Models [Question Answering System using Mistral](https://github.com/Deepakkori45/QuestionAnsweringUsingMistral)
 
-- ChatBots[ GeminiBot, ChatWithPdf]
-(https://github.com/Deepakkori45/GeminiAPP ,https://github.com/Deepakkori45/chat_with_pdf)
+- ChatBots[ GeminiBot](https://github.com/Deepakkori45/GeminiAPP) [ChatWithPdf](https://github.com/Deepakkori45/chat_with_pdf)
+
 - Time Series Forecasting Projects [LSTM, ARIMA, SARIMA and VAR](https://github.com/Deepakkori45/Time_Series_Forecasting)
 
 - Project Related to ML [KMean, KMedoid, DBScan, Linear Regression,](https://github.com/Deepakkori45/Machine-Learning-)
