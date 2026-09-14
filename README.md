@@ -1,23 +1,31 @@
-<h1 align="center">Hi there, I'm Deepak Kori 👋</h1>
-<h3 align="center">I am currently pursuing my M.Tech in Artificial Intelligence from IIT Patna. My passion lies in leveraging technology to address real-world challenges, particularly within the realms of Time Series Data analysis and Natural Language Processing (NLP).</h3>
+# Hi, I'm Deepak Kori 👋
 
-- My Project on Large Language Models [Question Answering System using Mistral](https://github.com/Deepakkori45/QuestionAnsweringUsingMistral)
+M.Tech in Artificial Intelligence, IIT Patna. I build end-to-end AI systems —
+from data pipelines and prompt design through to deployed, working products —
+with a focus on time-series analysis and NLP/LLM applications.
 
-- ChatBots[ GeminiBot](https://github.com/Deepakkori45/GeminiAPP) [ChatWithPdf](https://github.com/Deepakkori45/chat_with_pdf)
+## 🎯 Featured
 
-- Time Series Forecasting Projects [LSTM, ARIMA, SARIMA and VAR](https://github.com/Deepakkori45/Time_Series_Forecasting)
+**[From Reactive to Predictive](https://github.com/Deepakkori45/Reaction_to_Prediction)**
+A deployed system scoring private companies on transaction likelihood from public
+signals — LLM-based signal extraction, a transparent weighted scorecard, and a
+live Streamlit app. [Try it live](https://reactiontoprediction-4t94estntsygfkgom5mnhj.streamlit.app/).
 
-- Project Related to ML [KMean, KMedoid, DBScan, Linear Regression,](https://github.com/Deepakkori45/Machine-Learning-)
+## 🤖 GenAI & LLM Applications
+- [QuestionAnsweringUsingMistral](https://github.com/Deepakkori45/QuestionAnsweringUsingMistral) — Q&A system built on Mistral
+- [RAG_chatbot](https://github.com/Deepakkori45/RAG_chatbot) — retrieval-augmented generation chatbot
+- [chat_with_pdf](https://github.com/Deepakkori45/chat_with_pdf) — document Q&A over PDFs
+- [GeminiAPP](https://github.com/Deepakkori45/GeminiAPP) — Gemini-based application
 
+## 📈 Time Series & Forecasting
+- [Time_Series_Forecasting](https://github.com/Deepakkori45/Time_Series_Forecasting) — LSTM, ARIMA, SARIMA, VAR
+- [ARIMA-SARIMA](https://github.com/Deepakkori45/ARIMA-SARIMA)
+- [LSTM](https://github.com/Deepakkori45/LSTM)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/deepak-kori-101a821ab/" target="_blank"><img align="center" src="https://github.com/Deepakkori45/Deepakkori45/assets/111627339/b2fb4bdc-9bf7-49ba-a8af-b68261614434" alt="LinkedIn Profile" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/deepak-kori-101a821ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kori-101a821ab/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/deepakkori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/deepakkori" height="30" width="40" /></a>
-</p>
+## 🧠 Machine Learning
+- [Online-Payment-Fraud-Detection](https://github.com/Deepakkori45/Online-Payment-Fraud-Detection) — fraud transaction classification
+- [Machine-Learning-](https://github.com/Deepakkori45/Machine-Learning-) — KMeans, KMedoids, DBSCAN, linear regression
+- [Cricket-Score-Prediction](https://github.com/Deepakkori45/Cricket-Score-Prediction)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkori45&show_icons=true&locale=en&layout=compact" alt="deepakkori45" /></p>
+## Connect
+<!-- keep your existing badges/links section below this line -->
