@@ -76,4 +76,4 @@ Azure ML · AKS · AI Foundry · AI Search · Unity Catalog · Delta Lake · Lak
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 XGBoost · Deep Learning · NLP · CV · Recommender Systems · PowerBI · Tableau · vLLM · Ollama · TensorRT-LLM
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkori45&show_icons=true&locale=en&layout=compact" alt="deepakkori45" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkori45&show_icons=true&locale=en&layout=compact" alt="deepakkori45" /></p> -->
