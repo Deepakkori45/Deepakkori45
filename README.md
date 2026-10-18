@@ -6,6 +6,13 @@ with a focus on time-series analysis and NLP/LLM applications.
 
 ## 🎯 Featured
 
+**[Compliance-First Collections Voice Agent](https://github.com/Deepakkori45/collections-voice-agent)**
+An LLM voice agent that calls borrowers about past-due accounts. It verifies identity,
+negotiates payment plans, and handles disputes, cease requests and distress on the call.
+Built on Gemini tool calling with policy RAG, deterministic compliance guardrails enforced
+in code, and an eval harness that runs 14 simulated-borrower scenarios.
+**[🎙️ Try the live demo](https://collections-agent.streamlit.app/)**
+
 **[From Reactive to Predictive](https://github.com/Deepakkori45/Reaction_to_Prediction)**
 A deployed system scoring private companies on transaction likelihood from public
 signals — LLM-based signal extraction, a transparent weighted scorecard, and a
